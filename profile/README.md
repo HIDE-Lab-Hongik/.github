@@ -2,7 +2,7 @@
 ### Human-centered Integrated Design & Engineering Lab.
 
 
-![HIDE Lab. Logo](./../assets/images/240307-HIDE-Lab-logo.png)
+![](./../assets/images/240307-HIDE-Lab-logo.png)
 # HIDE Lab.
 
 
