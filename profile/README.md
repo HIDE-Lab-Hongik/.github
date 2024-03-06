@@ -2,7 +2,7 @@
 ### Human-centered Integrated Design & Engineering Lab.
 
 
-![](./../assets/images/240307-HIDE-Lab-logo.png)
+![](https://github.com/HIDE-Lab-Hongik/.github/tree/main/assets/images/240307-HIDE-Lab-logo.png)
 # HIDE Lab.
 
 
