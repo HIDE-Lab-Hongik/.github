@@ -1,7 +1,13 @@
-# HIDE Lab., Hongik University
+###### HIDE Lab., Hongik University
+### Human-centered Integrated Design & Engineering Lab.
+---
 
-HIDE Lab. Home is Under Construction!
+![](../assets/images/240307-HIDE-Lab-logo.png){width=100%}
+# HIDE Lab.
 
+
+
+HIDE Lab. Home is still Under Construction.
 
 ---
 © 2024 HIDE Lab.
